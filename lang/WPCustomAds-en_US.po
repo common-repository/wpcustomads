@@ -1,0 +1,354 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <support@ninetwozero.com>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WpCustomAds\n"
+"Report-Msgid-Bugs-To: Karl Lindmark <support@ninetwozero.com>\n"
+"POT-Creation-Date: 2011-07-04 11:54+0200\n"
+"PO-Revision-Date: 2011-07-04 12:20+0100\n"
+"Last-Translator: Karl Lindmark <support@ninetwozero.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: index.php:156
+msgid "Advert deleted."
+msgstr "Advert deleted."
+
+#: index.php:156
+msgid "Advert could not be deleted."
+msgstr "Advert could not be deleted."
+
+#: index.php:163
+msgid "Element deleted."
+msgstr "Element deleted."
+
+#: index.php:163
+msgid "Element could not be deleted."
+msgstr "Element could not be deleted."
+
+#: index.php:189
+msgid "&raquo;&nbsp;You need to enter a title"
+msgstr "&raquo;&nbsp;You need to enter a title"
+
+#: index.php:194
+msgid "&raquo;&nbsp;You need to enter a link"
+msgstr "&raquo;&nbsp;You need to enter a link"
+
+#: index.php:199
+msgid "&raquo;&nbsp;You need to assign an image"
+msgstr "&raquo;&nbsp;You need to assign an image"
+
+#: index.php:215
+#: index.php:323
+msgid "Database storage successful."
+msgstr "Database storage successful."
+
+#: index.php:215
+#: index.php:323
+msgid "Database storage failed. Please try again."
+msgstr "Database storage failed. Please try again."
+
+#: index.php:250
+msgid "&raquo;&nbsp;You need to enter a title."
+msgstr "&raquo;&nbsp;You need to enter a title."
+
+#: index.php:255
+msgid "&raquo;&nbsp;You need to enter a link."
+msgstr "&raquo;&nbsp;You need to enter a link."
+
+#: index.php:260
+msgid "&raquo;&nbsp;You need to assign an image."
+msgstr "&raquo;&nbsp;You need to assign an image."
+
+#: index.php:266
+#: index.php:358
+msgid "Invalid unique id."
+msgstr "Invalid unique id."
+
+#: index.php:282
+msgid "Advert updated successfully."
+msgstr "Advert updated successfully."
+
+#: index.php:282
+msgid "Advert update failed. Please try again."
+msgstr "Advert update failed. Please try again."
+
+#: index.php:302
+#: index.php:346
+msgid "&raquo;&nbsp;You need to enter an element."
+msgstr "&raquo;&nbsp;You need to enter an element."
+
+#: index.php:307
+#: index.php:352
+msgid "&raquo;&nbsp;You need to enter a page which it exists on."
+msgstr "&raquo;&nbsp;You need to enter a page which it exists on."
+
+#: index.php:373
+msgid "Element updated successfully."
+msgstr "Element updated successfully."
+
+#: index.php:373
+msgid "Element update failed. Please try again."
+msgstr "Element update failed. Please try again."
+
+#: index.php:433
+msgid "Managing an advert &laquo; "
+msgstr "Managing an advert &laquo; "
+
+#: index.php:433
+msgid "Add advert"
+msgstr "Add advert"
+
+#: index.php:434
+msgid "Viewing adverts &laquo; "
+msgstr "Viewing adverts &laquo; "
+
+#: index.php:434
+msgid "View adverts"
+msgstr "View adverts"
+
+#: index.php:435
+msgid "Registering an element &laquo; "
+msgstr "Registering an element &laquo; "
+
+#: index.php:435
+msgid "Register element"
+msgstr "Register element"
+
+#: index.php:436
+msgid "Viewing elements &laquo; "
+msgstr "Viewing elements &laquo; "
+
+#: index.php:436
+msgid "View elements"
+msgstr "View elements"
+
+#: templates/tpl_manage_ad.php:4
+#: templates/tpl_list_ads.php:4
+#: templates/tpl_manage_element.php:4
+msgid "Status"
+msgstr "Status"
+
+#: templates/tpl_manage_ad.php:33
+msgid "New advert"
+msgstr "New advert"
+
+#: templates/tpl_manage_ad.php:35
+msgid "Use the form below to insert a new advert into the system."
+msgstr "Use the form below to insert a new advert into the system."
+
+#: templates/tpl_manage_ad.php:38
+msgid "Edit advert"
+msgstr "Edit advert"
+
+#: templates/tpl_manage_ad.php:40
+msgid "Use the form below to update an existing advert."
+msgstr "Use the form below to update an existing advert."
+
+#: templates/tpl_manage_ad.php:49
+#: templates/tpl_list_ads.php:37
+#: templates/tpl_list_ads.php:48
+msgid "Title"
+msgstr "Title"
+
+#: templates/tpl_manage_ad.php:49
+#: templates/tpl_manage_ad.php:62
+#: templates/tpl_manage_ad.php:66
+#: templates/tpl_manage_element.php:44
+#: templates/tpl_manage_element.php:55
+msgid "required"
+msgstr "required"
+
+#: templates/tpl_manage_ad.php:58
+msgid "Enter a title for the ad here"
+msgstr "Enter a title for the ad here"
+
+#: templates/tpl_manage_ad.php:62
+msgid "Website"
+msgstr "Website"
+
+#: templates/tpl_manage_ad.php:63
+msgid "Enter a link for the ad"
+msgstr "Enter a link for the ad"
+
+#: templates/tpl_manage_ad.php:66
+#: templates/tpl_list_ads.php:39
+#: templates/tpl_list_ads.php:50
+msgid "Image"
+msgstr "Image"
+
+#: templates/tpl_manage_ad.php:68
+msgid "Enter a link to an image here"
+msgstr "Enter a link to an image here"
+
+#: templates/tpl_manage_ad.php:69
+msgid "Upload your own image"
+msgstr "Upload your own image"
+
+#: templates/tpl_manage_ad.php:73
+msgid "Start date"
+msgstr "Start date"
+
+#: templates/tpl_manage_ad.php:141
+msgid "Stop date"
+msgstr "Stop date"
+
+#: templates/tpl_manage_ad.php:209
+#: templates/tpl_list_elements.php:17
+#: templates/tpl_list_elements.php:24
+#: templates/tpl_list_ads.php:40
+#: templates/tpl_list_ads.php:51
+msgid "Element"
+msgstr "Element"
+
+#: templates/tpl_manage_ad.php:222
+msgid "Save changes"
+msgstr "Save changes"
+
+#: templates/tpl_manage_ad.php:222
+msgid "Store the advert"
+msgstr "Store the advert"
+
+#: templates/tpl_list_elements.php:2
+msgid "Pre-defined elements"
+msgstr "Pre-defined elements"
+
+#: templates/tpl_list_elements.php:6
+msgid "Please use classes to assign an ad to multiple containers, and an element id to assign it to specific ones. <strong>.</strong> indicates that it is a class, and # that it is an unique identifier."
+msgstr "Please use classes to assign an ad to multiple containers, and an element id to assign it to specific ones. <strong>.</strong> indicates that it is a class, and # that it is an unique identifier."
+
+#: templates/tpl_list_elements.php:11
+msgid "Click here to register a new element"
+msgstr "Click here to register a new element"
+
+#: templates/tpl_list_elements.php:18
+#: templates/tpl_list_elements.php:25
+#: templates/tpl_manage_element.php:55
+msgid "Page"
+msgstr "Page"
+
+#: templates/tpl_list_elements.php:33
+#: templates/tpl_list_elements.php:37
+#: templates/tpl_list_ads.php:61
+#: templates/tpl_list_ads.php:64
+msgid "Edit"
+msgstr "Edit"
+
+#: templates/tpl_list_elements.php:42
+#: templates/tpl_list_ads.php:67
+msgid "Delete"
+msgstr "Delete"
+
+#: templates/tpl_settings.php:3
+msgid "Settings"
+msgstr "Settings"
+
+#: templates/tpl_settings.php:5
+msgid "This plugin requires some configuration to work properly, so take a few minutes to set it up and you'll be fine!"
+msgstr "This plugin requires some configuration to work properly, so take a few minutes to set it up and you'll be fine!"
+
+#: templates/tpl_list_ads.php:28
+msgid "Manage the ads using the form and table below."
+msgstr "Manage the ads using the form and table below."
+
+#: templates/tpl_list_ads.php:31
+msgid "Click here to create a new advert"
+msgstr "Click here to create a new advert"
+
+#: templates/tpl_list_ads.php:38
+#: templates/tpl_list_ads.php:49
+msgid "Link"
+msgstr "Link"
+
+#: templates/tpl_list_ads.php:41
+#: templates/tpl_list_ads.php:52
+msgid "Period"
+msgstr "Period"
+
+#: templates/tpl_list_ads.php:42
+#: templates/tpl_list_ads.php:53
+msgid "Active"
+msgstr "Active"
+
+#: templates/tpl_list_ads.php:64
+msgid "Edit this item"
+msgstr "Edit this item"
+
+#: templates/tpl_list_ads.php:67
+msgid "Delete this item"
+msgstr "Delete this item"
+
+#: templates/tpl_list_ads.php:82
+msgid "to"
+msgstr "to"
+
+#: templates/tpl_list_ads.php:83
+msgid "Yes"
+msgstr "Yes"
+
+#: templates/tpl_list_ads.php:83
+msgid "No"
+msgstr "No"
+
+#: templates/tpl_main.php:7
+msgid "Welcome to WPCustomAds. This plugin enables your to fill pre-defined elements in your templates with advertisement, offers or just link-partners. Whatever you might want to call it, this is the plugin to do it."
+msgstr "Welcome to WPCustomAds. This plugin enables your to fill pre-defined elements in your templates with advertisement, offers or just link-partners. Whatever you might want to call it, this is the plugin to do it."
+
+#: templates/tpl_main.php:10
+msgid "Configuration"
+msgstr "Configuration"
+
+#: templates/tpl_main.php:12
+msgid "This plugin requires some configuration to work properly, so take a few minutes to set it up according to the list below:"
+msgstr "This plugin requires some configuration to work properly, so take a few minutes to set it up according to the list below:"
+
+#: templates/tpl_main.php:15
+msgid "1. <a href=\"?page=WPCustomAds-manage-elements\">Register elements that you want to display advertisement in</a>"
+msgstr "1. <a href=\"?page=WPCustomAds-manage-elements\">Register elements that you want to display advertisement in</a>"
+
+#: templates/tpl_main.php:18
+msgid "2. <a href=\"?page=WPCustomAds-manage-ads\">Create adverts for the registered elements</a>"
+msgstr "2. <a href=\"?page=WPCustomAds-manage-ads\">Create adverts for the registered elements</a>"
+
+#: templates/tpl_main.php:21
+msgid "3. <a href=\"?page=WPCustomAds-list-ads\">View the adverts you just created</a>"
+msgstr "3. <a href=\"?page=WPCustomAds-list-ads\">View the adverts you just created</a>"
+
+#: templates/tpl_manage_element.php:32
+msgid "Add new elements to the listing"
+msgstr "Add new elements to the listing"
+
+#: templates/tpl_manage_element.php:35
+msgid "Edit element"
+msgstr "Edit element"
+
+#: templates/tpl_manage_element.php:44
+msgid "Identifier"
+msgstr "Identifier"
+
+#: templates/tpl_manage_element.php:52
+msgid "HTML-selector"
+msgstr "HTML-selector"
+
+#: templates/tpl_manage_element.php:55
+msgid "slug1;slug2;"
+msgstr "slug1;slug2;"
+
+#: templates/tpl_manage_element.php:56
+msgid "On which pages do you want it to appear?"
+msgstr "On which pages do you want it to appear?"
+
+#: templates/tpl_manage_element.php:60
+msgid "Update the element"
+msgstr "Update the element"
+
+#: templates/tpl_manage_element.php:60
+msgid "Add the element to the list"
+msgstr "Add the element to the list"
+
